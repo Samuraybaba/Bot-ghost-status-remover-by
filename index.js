@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Sunucu Büyüt Hizmet Botu"];
+const statusMessages = ["Nexorix Host Hizmet Botu"];
 
 
 let currentIndex = 0;
